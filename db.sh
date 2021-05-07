@@ -1,3 +1,7 @@
 mongodb
 mariadb
-mysquel
+mysqueil
+possquare
+auro
+dynamodb
+
